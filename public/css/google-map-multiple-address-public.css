@@ -1,0 +1,12 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+
+ #public-map {
+ 	height:400px;
+ 	width:100%;
+ }
+ .hidden{
+	display:none;
+}
